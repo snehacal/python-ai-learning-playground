@@ -5,5 +5,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("This is a new line added to the main function.")
-    
+    print("Learning Git branches with Sneha")
+    print("revising Git branches with Sneha")
